@@ -99,11 +99,7 @@ const gameOcer = id => {
     if(result == true){
       window.location.reload();
     }
-  },10);
-  
-
-
- 
+  },10); 
 };
 
 //カウントダウンタイマー
